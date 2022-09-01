@@ -11,10 +11,10 @@ button {
   cursor: pointer;
 }
 .on {
-  color: #FFA600;
+  color: orange;
 }
 .off {
-  color: #FFDFA4;
+  color: lightye;
 }
 /*  */
 

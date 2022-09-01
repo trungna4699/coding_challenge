@@ -3,21 +3,6 @@
   text-align: center;
 }
 
-/* Star */
-button {
-  background-color: transparent;
-  border: none;
-  outline: none;
-  cursor: pointer;
-}
-.on {
-  color: #FFA600;
-}
-.off {
-  color: #FFDFA4;
-}
-/*  */
-
 .listContainer {
   display: flex;
   flex-direction: column;
@@ -30,13 +15,12 @@ button {
   margin-top: 10px;
 }
 
-#ratingStar {
+.ratingStar {
   display: flex;
+  justify-content: start;
 }
 
-#vehicleList {
-  display: flex;
-}
+
 
 
 

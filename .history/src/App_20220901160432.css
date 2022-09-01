@@ -1,46 +1,8 @@
 .App {
-  background-color: #F0F3F4;
+  background-color: lightgrey;
   text-align: center;
 }
 
-/* Star */
-button {
-  background-color: transparent;
-  border: none;
-  outline: none;
-  cursor: pointer;
-}
-.on {
-  color: #FFA600;
-}
-.off {
-  color: #FFDFA4;
-}
-/*  */
-
-.listContainer {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.supplierInfo {
-  display: flex;
-  justify-content: space-between;
-  margin-top: 10px;
-}
-
-#ratingStar {
-  display: flex;
-}
-
-#vehicleList {
-  display: flex;
-}
-
-
-
-/* Default Settings */
 .App-logo {
   height: 40vmin;
   pointer-events: none;

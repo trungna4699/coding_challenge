@@ -3,7 +3,6 @@
   text-align: center;
 }
 
-/* Star */
 button {
   background-color: transparent;
   border: none;
@@ -11,12 +10,11 @@ button {
   cursor: pointer;
 }
 .on {
-  color: #FFA600;
+  color: #000;
 }
 .off {
-  color: #FFDFA4;
+  color: #ccc;
 }
-/*  */
 
 .listContainer {
   display: flex;
